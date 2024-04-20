@@ -23,7 +23,6 @@ KK 737 ST, Kigali: Rwanda
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
