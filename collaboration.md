@@ -1,1 +1,1 @@
-## Collaboration Essentials on Git
+## Collaboration Essentials on Git, Edison
